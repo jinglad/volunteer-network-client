@@ -11,7 +11,7 @@ const RegisterVolunteer = () => {
 
     const onSubmit = data => {
         const volunteerDetails = { ...loggedInUser, details: { registeredVolunteer }, data: data, registrationTime: new Date() };
-        fetch('http://localhost:5000/addVolunteer', {
+        fetch('https://hidden-ravine-72599.herokuapp.com/addVolunteer', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

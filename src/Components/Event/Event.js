@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { VolunteerContext } from '../../App';
 
 const Event = (props) => {
+    // console.log(props.event);
     const { img, title, key } = props.event;
     const [registeredVolunteer, setRegisteredVolunteer] = useContext(VolunteerContext);
 

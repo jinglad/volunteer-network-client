@@ -9,7 +9,7 @@ const RegisteredEvent = () => {
     const [loggedInUser, setLoggedInUser] = useContext(UserContext);
 
     useEffect(() => {
-        fetch(`http://localhost:5000/registeredEvents?email=${loggedInUser.email}`, {
+        fetch(`https://hidden-ravine-72599.herokuapp.com/registeredEvents?email=${loggedInUser.email}`, {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json'

@@ -6,7 +6,7 @@ const RegEvents = (props) => {
     const { date } = props.ev.data;
 
     const deleteEvent = (id) => {
-        fetch(`http://localhost:5000/delete/${id}`, {
+        fetch(`https://hidden-ravine-72599.herokuapp.com/delete/${id}`, {
             method: 'DELETE',
         })
             .then(res => res.json())

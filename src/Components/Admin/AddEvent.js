@@ -5,7 +5,7 @@ import Admin from './Admin';
 const AddEvent = () => {
     const handleAddEvent = () => {
         const event = {};
-        fetch('http://localhost:5000/addEvent', {
+        fetch('https://hidden-ravine-72599.herokuapp.com/addEvent', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -13,6 +13,7 @@ const AddEvent = () => {
             body: JSON.stringify(event)
         })
     }
+
     return (
         <div className="container">
             <Admin></Admin>

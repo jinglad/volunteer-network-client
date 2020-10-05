@@ -1,0 +1,8 @@
+.admin-item{
+    text-decoration: none!important;
+    color: black !important;
+    padding: 8px 12px;
+}
+.admin-item:hover{
+    color: red!important;
+}

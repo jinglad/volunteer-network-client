@@ -1,0 +1,14 @@
+.img-box{
+    position: relative;
+}
+.event-title{
+    position: absolute;
+    bottom: -8px;
+    text-align: center;
+    width: 255px;
+    padding: 20px;
+    background: #FFBD3E;
+    border-radius: 0 0 5px 5px;
+    color: white;
+    font-size: 15px;
+}

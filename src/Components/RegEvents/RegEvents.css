@@ -1,0 +1,29 @@
+.registered-event-box{
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px gray;
+    border-radius:15px;
+    margin-right: 20px;
+}
+.registered-img-box{
+    width: 130px;
+    float: left;
+}
+.registered-img-box img{
+    width: 100%;
+}
+.registered-event-info{
+    float: left;
+    margin-left: 20px;
+}
+.registered-event-info button{
+    border: none;
+    outline: none;
+    padding: 5px 8px;
+    border-radius: 5px;
+    margin-top: 60px;
+    margin-left: 230px;
+}
+.col-md-6{
+    max-width: 48%!important;
+}

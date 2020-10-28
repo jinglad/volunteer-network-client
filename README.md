@@ -1,16 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Volunteer Network
 
-## Available Scripts
+    Volunteer Network is a MERN project. In this website user can find many events and register for any of the events as a volunteer. User can register as many events as they want to attend as a volunteer. User can also see their register events on the event page. User can manage their registered events. Like they can cancel any registered event when they want.
 
-In the project directory, you can run:
+    This website have user authentication. User have to login for register event. Without login they can't have the access to go to the registration page. 
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Technologies
+
+    In Volunteer Network following technologies used:
+        ReactJs, MongoDB, Node.js, Express.js, Bootstrap, Firebase, Heroku,
+        React-hook-form,React-Router
 
 ### `yarn test`
 

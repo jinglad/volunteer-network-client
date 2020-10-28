@@ -13,4 +13,4 @@ In Volunteer Network following technologies used:
     React-hook-form,React-Router
 
 [Resume](https://drive.google.com/file/d/1UZuM4RjUmLMNS9eqyeSiSOC02tR1nicv/view?usp=sharing)
-[Server-Side Code](https://github.com/jinglad/volunteer-server-01)
+[Server-Side-Code](https://github.com/jinglad/volunteer-server-01)

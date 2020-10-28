@@ -12,5 +12,5 @@ In Volunteer Network following technologies used:
     ReactJs, MongoDB, Node.js, Express.js, Bootstrap, Firebase, Heroku,
     React-hook-form,React-Router
 
-[https://drive.google.com/file/d/1UZuM4RjUmLMNS9eqyeSiSOC02tR1nicv/view?usp=sharing](My Resume)
-[https://github.com/jinglad/volunteer-server-01](Server-Side Code)
+[Resume](https://drive.google.com/file/d/1UZuM4RjUmLMNS9eqyeSiSOC02tR1nicv/view?usp=sharing)
+<!-- [https://github.com/jinglad/volunteer-server-01](Server-Side Code) -->
